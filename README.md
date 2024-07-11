@@ -1,4 +1,8 @@
 # sms_spam_detector
+
+Source code for this project can be found at: https://github.com/tbrown14611/sms_spam_detector
+
+
 Module 21 Challenge
 Due Jul 18 by 11:59pm Points 100 Submitting a text entry box or a website url
 Background
